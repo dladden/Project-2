@@ -1,0 +1,11 @@
+abc, aaqbzcw
+abc, qrtsze
+ced, checked
+dead, dread
+abc, aabbcc
+abcdefghijklmnopqrstuvwxyz, a
+1, 123
+123, 1
+abc, abc
+abcde, acdef
+abc, acb
